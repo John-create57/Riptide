@@ -55,7 +55,7 @@ post in [our Discord server][discord-invite]'s `#support-and-bugs` channel.
 </div>
 
 [banner-light]: https://github.com/John-create57/Riptide/blob/main/Images/eae04a9c-1832-4c90-b04b-c64b18bb53f8-removebg-preview.png
-[banner-dark]:  https://github.com/fishstrap/fishstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only
+[banner-dark]:  https://github.com/John-create57/Riptide/blob/main/Images/eae04a9c-1832-4c90-b04b-c64b18bb53f8-removebg-preview.png
 
 [badge-license]:   https://img.shields.io/github/license/fishstrap/fishstrap?style=flat-square
 [badge-actions]:   https://img.shields.io/github/actions/workflow/status/fishstrap/fishstrap/ci-release.yml?branch=main&style=flat-square&label=builds
